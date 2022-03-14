@@ -1,6 +1,9 @@
 # pengolahan_data
 
-A new Flutter project.
+Afifrendra Rifqi Nugraha/123190012
+
+Youtube Link : https://youtu.be/qltBSngaLZU
+Github Link : https://github.com/Qiraha/prakTPM-Pertemuan4/
 
 ## Getting Started
 
